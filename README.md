@@ -8,7 +8,7 @@ My three main personal values are:
 - Collaboration over competition. :dancers:
 - Benefit the humankind with my skillset. :earth_asia:
 
-I thrive in an agile development environment in a rapidly-growing startup atmosphere. I enjoy being involved in the whole process of the product development, seeing the "big picture" of the overall product vision, and making educated & technical decisions accordingly.
+I thrive in an agile development environment in a rapidly-growing startup atmosphere. I enjoy being involved in the whole process of the product development, seeing the "big picture" of the overall product's vision, and making educated & technical decisions accordingly. You can view my resume [here](https://hunj.dev/resume/) if you're interested in my background.
 
 After work, you’ll see me grabbing a fresh cold one :beer:, playing video games with friends :video_game:, and traveling on weekends :car: to eat gourmet food :stew: (but currently staying at home due to the pandemic). I also enjoy taking pictures :camera: of my rescued cat Retsuko. :smirk_cat:
 
