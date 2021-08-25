@@ -12,6 +12,8 @@ I thrive in an agile development environment in a rapidly-growing startup atmosp
 
 After work, you’ll see me grabbing a fresh cold one :beer:, playing video games with friends :video_game:, and traveling on weekends :car: to eat gourmet food :stew: (but currently staying at home due to the pandemic). I also enjoy taking pictures :camera: of my rescued cat Retsuko. :smirk_cat:
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=2088dd639895&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <div>
 Want to support me? Send <a href="https://dogecoin.com/" target="_blank">$DOGE</a> to <code>DRgoHc1Litr77oCHDuSqNmAXsgEseb1Hqt</code>. <img src="img/dogecoin.png" align="right" width="72" height="72">
 </div>
