@@ -6,7 +6,7 @@ import re
 
 URL = "https://hunj.dev"
 HEADER = "### Recent Blog Posts\n"
-REPO = os.environ['GITHUB_REPOSITORY']
+REPO = 'hunj/hunj'
 END = "Read more"
 REGEX = rf"{HEADER}[\s\S]*?(?={END})"
 
