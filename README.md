@@ -19,9 +19,9 @@ Feel free to reach out to me for networking, exchanges, and collaborations. I'm 
 
 ### Recent Blog Posts
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=2088dd639895&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
 ### Support me
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=2088dd639895&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <div>
 Want to support me? Send <a href="https://dogecoin.com/" target="_blank">$DOGE</a> to <code>DRgoHc1Litr77oCHDuSqNmAXsgEseb1Hqt</code>. <img src="img/dogecoin.png" align="right" width="72" height="72">
