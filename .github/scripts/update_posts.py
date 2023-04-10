@@ -5,9 +5,10 @@ import os
 import re
 
 URL = "https://hunj.dev"
-HEADER = "### Recent Blog Posts"
+HEADER = "### Recent Blog Posts\n"
 REPO = os.environ['GITHUB_REPOSITORY']
-REGEX = rf"{HEADER}\n\n[\s\S]*?(?=<\/td>)"
+END = "Read more"
+REGEX = rf"{HEADER}[\s\S]*?(?={END})"
 
 req = requests.get(URL)
 soup = BeautifulSoup(req.content, features="lxml")
@@ -16,10 +17,11 @@ posts = [HEADER]
 for post in soup.select('article.post'):
     title = post.select_one('h2.post-title').text.strip()
     path = post.select_one('a.post-title-link')['href']
-    text = f"[{title}]({URL}{path})"
+    text = f"- [{title}]({URL}{path})"
 
     posts.append(text)
 
+posts.append('\n')
 posts_text = '\n'.join(posts)
 
 shithub = Github("access_token")
