@@ -19,7 +19,7 @@ jobs:
         ruby-version: 3.1
 
     - name: Install dependencies
-      run: gem install httparty nokogiri octokit
+      run: gem install httparty nokogiri octokit faraday-retry
 
     - name: Scrape posts and update README
       run: ruby ./.github/scripts/update_posts.rb
