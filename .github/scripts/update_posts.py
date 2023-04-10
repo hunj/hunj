@@ -11,7 +11,7 @@ END = "Read more"
 REGEX = rf"{HEADER}[\s\S]*?(?={END})"
 
 req = requests.get(URL)
-soup = BeautifulSoup(req.content, features="lxml")
+soup = BeautifulSoup(req.content, "html.parser")
 posts = [HEADER]
 
 for post in soup.select('article.post'):
