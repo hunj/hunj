@@ -24,6 +24,3 @@ jobs:
 
     - name: Scrape posts and update README
       run: poetry run ./.github/scripts/update_posts.py
-      env:
-        GITHUB_TOKEN: $
-        GITHUB_REPOSITORY: $
