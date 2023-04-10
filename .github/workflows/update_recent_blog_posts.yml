@@ -23,4 +23,4 @@ jobs:
         poetry install
 
     - name: Scrape posts and update README
-      run: poetry run ./.github/scripts/update_posts.py
+      run: poetry run python ./.github/scripts/update_posts.py
