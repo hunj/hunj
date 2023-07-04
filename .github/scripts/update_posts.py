@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from github import Github, Auth
+from github import Github
 import os
 import re
 
@@ -25,7 +25,7 @@ for post in soup.select('article.post'):
 posts.append('\n')
 posts_text = '\n'.join(posts)
 
-shithub = Github(auth=Auth.Token(TOKEN))
+shithub = Github('access_token')
 repo = shithub.get_repo(REPO)
 readme = repo.get_readme()
 
