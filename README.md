@@ -2,25 +2,9 @@
 
 🙋‍♂️ My name is Hun Jae (/Hun-JAY/, 헌재) Lee, and I am a software engineer currently residing in Pittsburgh, Pennsylvania :us:. I am originally from Seoul, Korea :kr: and have lived in Cleveland, Ohio for a long time!
 
-I have 5+ years of experience in web development, especially with Python and Django (REST framework). I enjoy the art of creating firmly-tested codebase that is readable and self-documenting. You can see my resume on my website here: [hunj.dev/resume](https://hunj.dev/resume)
+I have 7+ years of experience in web development, especially with Python and Django (REST framework). I enjoy the art of creating firmly-tested codebase that is readable and self-documenting. You can see my resume on my website here: [hunj.dev/resume](https://hunj.dev/resume)
 
 Feel free to reach out to me for networking, exchanges, and collaborations. I'm open to new ideas and fun projects!
-
-## Keyword Cloud
-
-- `Python` `Ruby` `JavaScript` `HTML/CSS`
-- `Django` `Django REST Framework` `Flask` `Rails` `Jekyll` `JQuery` `Bootstrap` `Bulma.io` `Angular2` `cucumber/behave (BDD)`
-- `Django-allauth` `Devise/Warden` `SAML` `OAuth` `Auth0`
-- `python-requests` `Selenium` `BeautifulSoup` `aiohttp` `lxml` `wireshark` `nginx`
-- `MySQL/MariaDB` `ElasticSearch` `PostgreSQL` `SQLite`
-- `Git` `GitHub` `SVN`
-- `Docker` `docker-compose` `Ansible` `Jenkins` `RabbitMQ` `Github Actions`
-- `Google Cloud Platform` `Heroku` `Amazon Web Services` `DigitalOcean` `NewRelic`
-
-### Recent Blog Posts
-
-
-Read more at [hunj.dev](https://hunj.dev)
 
 ### Support me
 
