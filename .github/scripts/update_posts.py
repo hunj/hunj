@@ -4,7 +4,7 @@ from github import Github, Auth
 import os
 import re
 
-TOKEN = os.environ.get('access_token')
+TOKEN = os.environ.get('GH_TOKEN')
 URL = "https://hunj.dev"
 HEADER = "### Recent Blog Posts\n"
 REPO = 'hunj/hunj'
