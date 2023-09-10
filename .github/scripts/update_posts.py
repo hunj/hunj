@@ -31,4 +31,4 @@ readme = repo.get_readme()
 
 with open(readme.path, 'w') as readme_file:
     re.sub(REGEX, posts_text, readme_file)
-    shithub.update_contents(repo, 'README.md', 'Update recent blog posts', readme['sha'], readme_file)
+    shithub.update_contents(repo, readme.path, 'Update recent blog posts', readme.sha, readme_file)
