@@ -6,6 +6,9 @@ I have 7+ years of experience in web development, especially with Python and Dja
 
 Feel free to reach out to me for networking, exchanges, and collaborations. I'm open to new ideas and fun projects!
 
+### Recent Blog Posts
+
+
 ### Support me
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=2088dd639895&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
