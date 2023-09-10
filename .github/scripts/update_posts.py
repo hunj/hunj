@@ -27,8 +27,8 @@ posts_text = '\n'.join(posts)
 
 shithub = Github(auth=Auth.Token(TOKEN))
 repo = shithub.get_repo(REPO)
-readme = repo.get_readme().path
+readme = repo.get_readme()
 
-with open(readme, 'rw') as readme_file:
+with open(readme.path, 'w') as readme_file:
     re.sub(REGEX, posts_text, readme_file)
     shithub.update_contents(repo, 'README.md', 'Update recent blog posts', readme['sha'], readme_file)
