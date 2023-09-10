@@ -27,7 +27,7 @@ posts_text = '\n'.join(posts)
 
 shithub = Github(auth=Auth.Token(TOKEN))
 repo = shithub.get_repo(REPO)
-readme = repo.get_readme()
+readme = repo.get_readme().path
 
 with open(readme, 'rw') as readme_file:
     re.sub(REGEX, posts_text, readme_file)
