@@ -8,6 +8,7 @@ Feel free to reach out to me for networking, exchanges, and collaborations. I'm 
 
 ### Recent Blog Posts
 
+Read more at [hunj.dev](https://hunj.dev)
 
 ### Support me
 
