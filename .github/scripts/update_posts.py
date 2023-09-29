@@ -6,7 +6,7 @@ import re
 
 TOKEN = os.environ.get('GH_TOKEN')
 URL = "https://hunj.dev"
-HEADER = "### Recent Blog Posts\n"
+HEADER = "### Recent Blog Posts"
 REPO = 'hunj/hunj'
 END = "Read more"
 REGEX = rf"{HEADER}[\s\S]*?(?={END})"
@@ -19,7 +19,6 @@ for post in soup.select('article.post'):
     title = post.select_one('h2.post-title').text.strip()
     path = post.select_one('a.post-title-link')['href']
     text = f"- [{title}]({URL}{path})"
-
     posts.append(text)
 
 posts.append('\n')
@@ -29,6 +28,5 @@ shithub = Github(auth=Auth.Token(TOKEN))
 repo = shithub.get_repo(REPO)
 readme = repo.get_readme()
 
-with open(readme.path, 'w') as readme_file:
-    re.sub(REGEX, posts_text, readme_file)
-    shithub.update_contents(repo, readme.path, 'Update recent blog posts', readme.sha, readme_file)
+new_content = re.sub(REGEX, posts_text, readme.decoded_content.decode())
+repo.update_file(readme.path, 'Update recent blog posts', new_content, readme.sha)
