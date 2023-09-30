@@ -7,7 +7,6 @@ I have 7+ years of experience in web development, especially with Python and Dja
 Feel free to reach out to me for networking, exchanges, and collaborations. I'm open to new ideas and fun projects!
 
 ### Recent Blog Posts
-
 - [ufw vs. iptables](https://hunj.dev/ufw-vs-iptables/)
 - [Working with iptables](https://hunj.dev/working-with-iptables/)
 - ["뭐든지 배워서 하겠습니다"](https://hunj.dev/sinib-junieo-gaebaljaga-cwihaeya-hal-jase/)
