@@ -27,6 +27,8 @@ posts_text = '\n'.join(posts)
 shithub = Github(auth=Auth.Token(TOKEN))
 repo = shithub.get_repo(REPO)
 readme = repo.get_readme()
+old_content = readme.decoded_content.decode()
 
-new_content = re.sub(REGEX, posts_text, readme.decoded_content.decode())
-repo.update_file(readme.path, 'Update recent blog posts', new_content, readme.sha)
+new_content = re.sub(REGEX, posts_text, old_content)
+if new_content != old_content:
+    repo.update_file(readme.path, 'Update recent blog posts', new_content, readme.sha)
