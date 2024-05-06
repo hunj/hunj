@@ -1,10 +1,9 @@
 # :wave: Hello!
 
-🙋‍♂️ My name is Hun Jae (/Hun-JAY/, 헌재) Lee, and I am a software engineer currently residing in Pittsburgh, Pennsylvania :us:. I am originally from Seoul, Korea :kr: and have lived in Cleveland, Ohio for a long time!
+🙋‍♂️ My name is Hun Jae (/Hun-JAY/, 헌재) Lee, and I am a software engineer living in Pittsburgh, Pennsylvania.
+I am a full-stack engineer specializing in Python/Django backend development. You can see my resume at [hunj.dev/resume](https://hunj.dev/resume) or reach out to me for a formal pdf-format resume.
 
-I have 7+ years of experience in web development, especially with Python and Django (REST framework). I enjoy the art of creating firmly-tested codebase that is readable and self-documenting. You can see my resume on my website here: [hunj.dev/resume](https://hunj.dev/resume)
-
-Feel free to reach out to me for networking, exchanges, and collaborations. I'm open to new ideas and fun projects!
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/hunj) for networking, exchanges, and collaborations. I'm open to geeking out about technology, as well as new fun project ideas!
 
 ### Recent Blog Posts
 - [Periodically Updating GitHub Profile's README.md using Python & GitHub Actions](https://hunj.dev/updating-readme-md-using-python-github-actions/)
