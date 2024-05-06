@@ -6,7 +6,7 @@ I am a full-stack engineer specializing in Python/Django backend development. Yo
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/hunj) for networking, exchanges, and collaborations. I'm open to geeking out about technology, as well as new fun project ideas!
 
 ### Recent Blog Posts
-- [Dockerize Python Environment for FastAPI with Poetry](https://hunj.dev/untitled/)
+- [Dockerize Python Environment for FastAPI with Poetry](https://hunj.dev/dockerize-python-fastapi-poetry/)
 - [Periodically Updating GitHub Profile's README.md using Python & GitHub Actions](https://hunj.dev/updating-readme-md-using-python-github-actions/)
 - [Working with iptables](https://hunj.dev/working-with-iptables/)
 - [Dev Machine Setup](https://hunj.dev/dev-machine-setup/)
