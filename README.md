@@ -6,11 +6,11 @@ I am a full-stack engineer specializing in Python/Django backend development. Yo
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/hunj) for networking, exchanges, and collaborations. I'm open to geeking out about technology, as well as new fun project ideas!
 
 ### Recent Blog Posts
+- [Understanding the Difference Between "blank" and "null" Parameters in Django Models](https://hunj.dev/understanding-the-difference-between-blank-and-null-parameters-in-django-models/)
 - [Dockerize Python Environment for FastAPI with Poetry](https://hunj.dev/dockerize-python-fastapi-poetry/)
 - [Periodically Updating GitHub Profile's README.md using Python & GitHub Actions](https://hunj.dev/updating-readme-md-using-python-github-actions/)
 - [Working with iptables](https://hunj.dev/working-with-iptables/)
 - [Dev Machine Setup](https://hunj.dev/dev-machine-setup/)
-- [Fixing error: no matches for kind "PodDisruptionBudget" in version "policy/v1beta1"](https://hunj.dev/no-matches-for-kind-poddisruptionbudget-in-version-policy-v1beta1/)
 
 Read more at [hunj.dev](https://hunj.dev)
 
